@@ -1,7 +1,8 @@
 # Fun Price Comparison App
-![ezgif-8a6c5e95532531](https://github.com/user-attachments/assets/08b6c390-1118-4f3e-b429-33fceae2de8b)
 
-This is a **just-for-fun** Expo app built for time pass! The app fetches product price data from multiple platforms like **Zepto**, **Blinkit**, **Instamart**, and **BigBasket** using the API provided by [quickcompare.com](https://quickcompare.com). It displays prices for the same product across these platforms, making it a quirky little tool to compare prices conveniently. Keep in mind, this app is primarily functional in **India**, as the supported platforms operate only in this region.
+![ezgif-83276eb4bf2eb0](https://github.com/user-attachments/assets/00fb43e3-45c3-4943-9717-3396590731d3)
+
+This is a **just-for-fun** Expo app built for time pass! The app fetches product price data from multiple platforms like **Zepto**, **Blinkit**, **Instamart**, and **BigBasket** using the API provided by [quickcompare.in](https://quickcompare.in). It displays prices for the same product across these platforms, making it a quirky little tool to compare prices conveniently. Keep in mind, this app is primarily functional in **India**, as the supported platforms operate only in this region.
 
 ## Features
 - Compare product prices across platforms like Zepto, Blinkit, Instamart, and BigBasket.
